@@ -17,7 +17,7 @@ The project includes data cleaning, visualization, and interpretation using tool
 
 ---
 
-## 🔍** Key Insights Extracted**
+## **🔍Key Insights Extracted**
 
 - Top restaurant chains by city
 - Most popular cuisines
@@ -27,7 +27,7 @@ The project includes data cleaning, visualization, and interpretation using tool
 
 ---
 
-## 📁** Project Files**
+## **📁Project Files**
 
 - `Zomato_EDA.ipynb` – The main analysis notebook
 - `zomato.csv` – Dataset used
